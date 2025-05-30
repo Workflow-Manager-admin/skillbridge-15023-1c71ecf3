@@ -4,6 +4,10 @@
   --text-color: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
   --border-color: rgba(255, 255, 255, 0.1);
+  /* SkillBridge ColorCraft palette */
+  --skillbridge-primary: #4F8A8B;
+  --skillbridge-secondary: #FBD46D;
+  --skillbridge-accent: #F6416C;
 }
 
 body {

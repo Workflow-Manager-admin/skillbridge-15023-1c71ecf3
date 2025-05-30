@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/skillbridge-15023-1c71ecf3/skillgap_analyzer_web_app"
+}
